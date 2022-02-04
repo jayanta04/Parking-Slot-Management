@@ -32,8 +32,8 @@ also have a function which inputs car+slot details to remove it.<br/>
 ➔ Allows me to enter the car details of the incoming car manually but in the format
 mentioned above and the system automatically alot them to the nearest empty slot.<br/>
 (nearest being slot 1 in slots 1-N)<br/>
-◆ e.g. if slots 4 and 19 are available, the system alots the car slot 4.
-➔ Due to government regulation, the system should provide me with the ability to find out:
+◆ e.g. if slots 4 and 19 are available, the system alots the car slot 4.<br/>
+➔ Due to government regulation, the system should provide me with the ability to find out:<br/>
 A. Registration numbers of all cars of a particular colour.<br/>
 B. Slot number in which a car with a given registration number is parked.<br/> c) Slot
 numbers of all slots where a car of a particular colour is parked.<br/>
